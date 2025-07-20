@@ -1,2 +1,2 @@
 # School-project
-All school projects
+All school projects showcasing my diverse skills and knowledge
